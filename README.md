@@ -1,7 +1,7 @@
 <h1 align="center">Nicolas Garzon — Portafolio</h1>
 
 <p align="center">
-  <b>Full-Stack Developer & UI/UX Designer</b>
+  <b>Full-Stack Developer</b>
   <br />
   Junior Software Developer passionate about AI automation, backend development, and creating logical, efficient solutions.
 </p>
