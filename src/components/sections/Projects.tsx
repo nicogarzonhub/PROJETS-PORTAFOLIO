@@ -41,7 +41,7 @@ const projects = [
   },
   {
     id: "project.6",
-    image: "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=800&q=80",
+    image: "/pegasus-mechanics.png",
     color: "from-orange-600/20 to-transparent",
     github: "https://github.com/pegasusAuteco/pegasusSolucionAuteco.git",
   },
